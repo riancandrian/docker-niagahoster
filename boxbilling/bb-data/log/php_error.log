@@ -1,0 +1,50 @@
+[21-Apr-2021 14:55:50 UTC] 2 mkdir(): Permission denied /Library/WebServer/Documents/box_billing/bb-vendor/twig/twig/src/Cache/FilesystemCache.php 54
+[21-Apr-2021 14:55:50 UTC] Unable to create the cache directory (/Library/WebServer/Documents/box_billing/bb-data/cache/19).
+[21-Apr-2021 15:07:11 UTC] Model not found
+[21-Apr-2021 15:25:03 UTC] Check your login details 403
+[21-Apr-2021 17:11:05 UTC] SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.23.0.1' (using password: YES)
+[21-Apr-2021 17:11:05 UTC] SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.23.0.1' (using password: YES)
+[21-Apr-2021 17:57:41 UTC] SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.23.0.1' (using password: YES)
+[21-Apr-2021 17:57:41 UTC] SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.23.0.1' (using password: YES)
+[21-Apr-2021 17:57:42 UTC] SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.23.0.1' (using password: YES)
+[21-Apr-2021 17:57:42 UTC] SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.23.0.1' (using password: YES)
+[21-Apr-2021 17:57:42 UTC] SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.23.0.1' (using password: YES)
+[21-Apr-2021 17:57:42 UTC] SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.23.0.1' (using password: YES)
+[21-Apr-2021 17:57:42 UTC] SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.23.0.1' (using password: YES)
+[21-Apr-2021 17:57:42 UTC] SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.23.0.1' (using password: YES)
+[21-Apr-2021 17:57:43 UTC] SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.23.0.1' (using password: YES)
+[21-Apr-2021 17:57:43 UTC] SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.23.0.1' (using password: YES)
+[21-Apr-2021 17:57:43 UTC] SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.23.0.1' (using password: YES)
+[21-Apr-2021 17:57:43 UTC] SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.23.0.1' (using password: YES)
+[21-Apr-2021 17:57:43 UTC] SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.23.0.1' (using password: YES)
+[21-Apr-2021 17:57:44 UTC] SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.23.0.1' (using password: YES)
+[21-Apr-2021 17:57:44 UTC] SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.23.0.1' (using password: YES)
+[21-Apr-2021 17:57:44 UTC] SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.23.0.1' (using password: YES)
+[21-Apr-2021 17:57:45 UTC] SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.23.0.1' (using password: YES)
+[21-Apr-2021 17:57:45 UTC] SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.23.0.1' (using password: YES)
+[21-Apr-2021 17:57:46 UTC] SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.23.0.1' (using password: YES)
+[21-Apr-2021 17:57:46 UTC] SQLSTATE[HY000] [1045] Access denied for user 'root'@'172.23.0.1' (using password: YES)
+[23-Apr-2021 15:07:31 UTC] SQLSTATE[HY000] [1049] Unknown database 'boxbilling'
+[23-Apr-2021 15:08:10 UTC] SQLSTATE[HY000] [1049] Unknown database 'boxbilling'
+[23-Apr-2021 15:21:40 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+[23-Apr-2021 15:21:40 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+[23-Apr-2021 15:21:47 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+[23-Apr-2021 15:21:47 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+[23-Apr-2021 15:21:48 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+[23-Apr-2021 15:22:42 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+[23-Apr-2021 15:22:42 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+[23-Apr-2021 15:22:43 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+[23-Apr-2021 15:22:43 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+[23-Apr-2021 15:22:43 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+[23-Apr-2021 15:22:43 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+[23-Apr-2021 15:22:44 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+[23-Apr-2021 15:22:44 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+[23-Apr-2021 15:22:44 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+[23-Apr-2021 15:22:44 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+[23-Apr-2021 15:29:56 UTC] SQLSTATE[HY000] [2002] Connection refused
+[23-Apr-2021 15:29:56 UTC] SQLSTATE[HY000] [2002] Connection refused
+[23-Apr-2021 15:29:59 UTC] SQLSTATE[HY000] [2002] Connection refused
+[23-Apr-2021 15:29:59 UTC] SQLSTATE[HY000] [2002] Connection refused
+[23-Apr-2021 16:04:18 UTC] SQLSTATE[HY000] [2002] Connection refused
+[23-Apr-2021 16:26:23 UTC] SQLSTATE[HY000] [1049] Unknown database 'boxbilling'
+[23-Apr-2021 16:26:23 UTC] SQLSTATE[HY000] [1049] Unknown database 'boxbilling'

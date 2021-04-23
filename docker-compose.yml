@@ -1,0 +1,35 @@
+version: "2.2"
+services:
+    web:
+        image: riancandrian/niagahoster-boxbilling:1.0
+        volumes:
+            - ${PWD}/:/var/www/public
+        ports:
+            - 8004:80
+        environment:
+            DB_HOST: db
+            DB_NAME: boxbilling
+            DB_USER: root
+            DB_PASS: secret
+        networks:
+            - network1
+        depends_on:
+            - db
+        restart: always
+    db:
+        image: mariadb:10.5.9
+        ports: 
+            - 3306:3306
+        environment: 
+            MYSQL_ROOT_PASSWORD: secret
+        networks: 
+            - network1
+        restart: always
+    landingpage:
+        image: riancandrian/niagahoster-landingpage:0.1
+        volumes:
+            - ${PWD}/:/var/www/public
+        ports:
+            - 8005:80
+networks: 
+    network1:

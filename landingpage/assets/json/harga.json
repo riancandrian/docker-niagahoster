@@ -1,0 +1,22 @@
+{
+	"bayi": {
+		"hargacoret": "19.900",
+		"harga": "14.900",
+		"pengguna": "938"
+	},
+	"pelajar": {
+		"hargacoret": "46.900",
+		"harga": "23.450",
+		"pengguna": "4.168"
+	},
+	"personal": {
+		"hargacoret": "58.900",
+		"harga": "38.900",
+		"pengguna": "10.017"
+	},
+	"bisnis": {
+		"hargacoret": "109.900",
+		"harga": "65.900",
+		"pengguna": "3.552"
+	}
+}
