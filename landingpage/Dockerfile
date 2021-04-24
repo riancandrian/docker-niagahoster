@@ -1,7 +1,3 @@
-FROM php:7.2-apache
+FROM riancandrian/niagahoster-landingpage:0.1
 
 RUN a2enmod rewrite
-
-COPY ./ /var/www/html
-
-RUN service apache2 restart
